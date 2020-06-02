@@ -20,9 +20,9 @@ Your goal for this lab is to set up three different `get` requests that each get
 
 You'll need to build the following routes:
 
-+ name
-+ hometown
-+ favorite-song
+- name
+- hometown
+- favorite-song
 
 The `name` route should display "My name is \_\_" in the browser, the `hometown` route should display "My hometown is \_\_", and the `favorite-song` route should display "My favorite song is \_\_".
 
